@@ -26,6 +26,7 @@ body {
 .authbox h2 {
   margin-bottom: 20px;
   color: #2e7d32;
+  margin-right: 60px;
 }
 
 .authbox form input {
